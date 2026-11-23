@@ -1,5 +1,7 @@
 # Payments
 
+[![CI](https://github.com/jdguior06/entradasya-payments/actions/workflows/ci.yml/badge.svg?branch=development)](https://github.com/jdguior06/entradasya-payments/actions/workflows/ci.yml)
+
 Servicio interno de cobros simulados de EntradasYa. Usa el puerto local 3004. Persiste una transacción por orden, incluidos los rechazos. De la tarjeta guarda únicamente los últimos cuatro dígitos.
 
 ## Requisitos
